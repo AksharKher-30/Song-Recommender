@@ -25,9 +25,9 @@ Just search your favorite song and get smart, personalized recommendations in a 
 
 ## 📁 Directory Structure
 
-├── app.py # Streamlit web app 
-├── song_recommendation.ipynb # Notebook for building and testing recommender logic 
-├── .gitignore # Excludes large model/data files
+├── app.py # Streamlit web app  
+├── song_recommendation.ipynb # Notebook for building and testing recommender logic  
+├── .gitignore # Excludes large model/data files  
 
 
 > ⚠️ The files `df.pkl`, `similarity.pkl`, and their compressed versions are ignored in git.  
