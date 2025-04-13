@@ -69,5 +69,5 @@ streamlit run app.py
 Open the browser at the URL displayed (usually http://localhost:8501) to interact with the app.
 
 📸 Screenshots
+![App Preview](https://i.postimg.cc/c4zKm0Gx/Preview.png)
 
-'''
